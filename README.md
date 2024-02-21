@@ -1,3 +1,4 @@
+# Starbug Membership
 This project involves the design and implementation of a membership system for a coffee shop using C# with an Object-Oriented Programming (OOP) paradigm, developed as a part of Object Oriented Programming Subject. The system is built to support various business events within the coffee shop, including member registration, drink and beverage purchases, and a points-based system that allows members to accumulate stars and redeem a free cup of coffee.
 
 ## Classes:
